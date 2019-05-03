@@ -1,1 +1,2 @@
 # canyoubuyafriend
+Can you buy a friend? is a speculative art project narrating the tensions between two friends navigating the social constructs of the modern, quantified digital era. It brings into perspective questions of unpaid emotional labor, giving vs. taking, as well as ideas of self-worth and valuation. Imagine a world where everything has a price. How will our most intimate relationships play out? Users have the choice to dictate the path of the story and decide for themselves what they want the outcome of the story to be.
